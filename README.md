@@ -13,5 +13,5 @@ Features:
 - Path Evaluation: Evaluate the efficiency of the best path obtained by the model, considering factors such as travel time, distance covered, and overall performance.
 
 Contributors:
-- Correia19
-- Kashigu
+- Gonçalo Correia
+- Orlando Lopes
